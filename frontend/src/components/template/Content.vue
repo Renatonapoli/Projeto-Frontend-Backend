@@ -8,7 +8,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 .content {
   grid-area: content;
   background-color: #efefef;
