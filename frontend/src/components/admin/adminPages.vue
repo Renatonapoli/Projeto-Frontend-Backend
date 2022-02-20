@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import PageTitle from "../admin/PageTitle";
+import PageTitle from "../template/PageTitle.vue";
 
 export default {
   name: "AdiminPages",

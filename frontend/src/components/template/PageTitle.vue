@@ -9,7 +9,7 @@
 <script>
 export default {
   name: "PageTitle",
-  props: ["icone", "main", "sub"],
+  props: ["icon", "main", "sub"],
 };
 </script>
 
