@@ -1,5 +1,5 @@
 <template>
-  <div class="page-title">
+  <div a class="page-title">
     <h1><i v-if="icon" :class="icon"> {{ main }}</i></h1>
     <h2>{{ sub }}</h2>
     <hr>
